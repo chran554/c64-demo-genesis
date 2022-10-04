@@ -1,0 +1,5 @@
+= C64 demo - Genesis
+
+I hope you will not be disappointed but this is the simple "Hello World" for C64 assembler programming.
+
+image::documentation/images/genesis-screenshot.png[Genesis screenshot]
